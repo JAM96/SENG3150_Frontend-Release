@@ -1,0 +1,47 @@
+@media screen and (min-width: 0px) and (max-width: 600px) {
+    .panelHalf {
+        margin: 0;
+        padding: 0;
+        padding-top: 100px;
+        
+        height: auto;
+        background-color: rgba(255,255,255,0.8);
+    }
+
+    .customPackageCreationHome {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 5px;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 600px) {
+    .hideRecommendations {
+        display: none;
+    } 
+
+    .s-view {
+        height: 70%;
+    }
+
+    .s-view-a { /* accomodation scaling */
+        height: 100%;
+    }  
+
+    .hotelAdvert {
+        display:none;
+    }
+    .item-content {
+        margin-bottom: 50px;
+    }
+
+    .item-rating {
+        background-color: transparent;
+        border-radius: 0px;
+    }
+
+    .text-hide {
+        display: none;
+    }
+}
